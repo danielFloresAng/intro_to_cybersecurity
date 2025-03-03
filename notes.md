@@ -48,3 +48,20 @@
     <Policy and procedure refers to the administrative controls that provide a foundation for how an organization implements information assurance, such as incident response plans and best practice guidelines.>
 
     * A security breach is an incident that results in unauthorized access to data, applications, services or devices, exposing private information that attackers can use for financial gain or other advantages.
+
+    <Cyberwarfare: is the use of technology to penetrate and attack another nation’s computer systems and networks in an effort to cause damage or disrupt services.>
+
+
+___________________________________________________________________________________________
+
+/// Types of Malware: 
+
+- Spyware: Monitors your online activity and can log every key you press on your keyboard
+- Adware: Designed to automatically deliver advertisements to a user
+- Backdoor: Used to gain unauthorized access by bypassing the normal authentication procedures to access a system.
+- Ransomware: Designed to hold a computer system or the data it contains captive until a payment is made.
+- Scareware: Malware that uses 'scare’ tactics to trick you into taking a specific action.
+- Rootkit: Designed to modify the operating system to create a backdoor, which attackers can then use to access your computer remotely.
+- Virus: Type of computer program that, when executed, replicates and attaches itself to other executable files, such as a document, by inserting its own code.
+- Trojan horse: This malware carries out malicious operations by masking its true intent.
+- Worms: Type of malware that replicates itself in order to spread from one computer to another.

@@ -58,10 +58,14 @@ ________________________________________________________________________________
 
 - Spyware: Monitors your online activity and can log every key you press on your keyboard
 - Adware: Designed to automatically deliver advertisements to a user
-- Backdoor: Used to gain unauthorized access by bypassing the normal authentication procedures to access a system.
+- Backdoor: Used to gain unauthorized access by bypassing the normal authentication procedures to access a sy
+stem.
 - Ransomware: Designed to hold a computer system or the data it contains captive until a payment is made.
 - Scareware: Malware that uses 'scare’ tactics to trick you into taking a specific action.
 - Rootkit: Designed to modify the operating system to create a backdoor, which attackers can then use to access your computer remotely.
 - Virus: Type of computer program that, when executed, replicates and attaches itself to other executable files, such as a document, by inserting its own code.
 - Trojan horse: This malware carries out malicious operations by masking its true intent.
 - Worms: Type of malware that replicates itself in order to spread from one computer to another.
+
+___________________________________________________________________________________________
+<Denial-of-Service (DoS) attacks are a type of network attack that is relatively simple to carry out, even by an unskilled attacker. A DoS attack results in some sort of interruption of network service to users, devices or applications.>

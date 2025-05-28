@@ -68,4 +68,21 @@ stem.
 - Worms: Type of malware that replicates itself in order to spread from one computer to another.
 
 ___________________________________________________________________________________________
-<Denial-of-Service (DoS) attacks are a type of network attack that is relatively simple to carry out, even by an unskilled attacker. A DoS attack results in some sort of interruption of network service to users, devices or applications.>
+
+* //// METHOS OF INFILTRACION //// 
+
+<Social_engineering is the manipulation of people into performing actions or divulging confidential information. Social engineers often rely on people’s willingness to be helpful, but they also prey on their weaknesses.>
+
+<!-- Denial-of-Service  -->
+- (DoS) attacks are a type of network attack that is relatively simple to carry out, even by an unskilled attacker. A DoS attack results in some sort of interruption of network service to users, devices or applications.
+
+<!-- Botnet -->
+- A bot computer is typically infected by visiting an unsafe website or opening an infected email attachment or infected media file. 
+- A botnet is a group of bots, connected through the Internet, that can be controlled by a malicious individual or group. 
+- These bots can be activated to distribute malware, launch DDoS attacks, distribute spam email, or execute brute-force password attacks. Cybercriminals will often rent out botnets to third parties for nefarious purposes.
+
+<!-- On path attacks -->
+- On-path attackers intercept or modify communications between two devices, such as a web browser and a web server, either to collect information from or to impersonate one of the devices. This type of attack is also referred to as a man-in-the-middle(MitM) or man-in-the-mobile attack (MITMO).
+
+<!-- SEO poisoning -->
+- Attackers take advantage of popular terms and use SEO (search engine optimization) to push malicious sits higher up the ranks os search results. This thecnique is called SEO poisoning.

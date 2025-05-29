@@ -86,3 +86,24 @@ ________________________________________________________________________________
 
 <!-- SEO poisoning -->
 - Attackers take advantage of popular terms and use SEO (search engine optimization) to push malicious sits higher up the ranks os search results. This thecnique is called SEO poisoning.
+
+<!-- Wi-Fi Password Cracking -->
+- Hackers have other techniques up their sleeves. Some use brute-force attacks, testing possible password combinations to try and guess a password. Others are able to identify unencrypted passwords by listening in and capturing packets sent on the network. This is called network sniffing. If the password is encrypted, they may still be able to reveal it using a password cracking tool.
+
+<!-- Password Attacks -->
+ - Password spraying: This technique attempts to gain access to a system by ‘spraying’ a few commonly used passwords across a large number of accounts. This technique allows the perpetrator to remain undetected as they avoid frequent account lockouts.
+
+- Dictionary attacks: A hacker systematically tries every word in a dictionary or a list of commonly used words as a password in an attempt to break into a password-protected account.
+
+- Brute-force attacks: The simplest and most commonly used way of gaining access to a password-protected site, brute-force attacks see an attacker using all possible combinations of letters, numbers and symbols in the password space until they get it right.
+
+- Rainbow attacks: Passwords in a computer system are not stored as plain text, but as hashed values (numerical values that uniquely identify data). A rainbow table is a large dictionary of precomputed hashes and the passwords from which they were calculated.
+A rainbow attack compares the hash of a password with those stored in the rainbow table. When an attacker finds a match, they identify the password used to create the hash.
+
+- Traffic interception: Plain text or unencrypted passwords can be easily read by other humans and machines by intercepting communications.
+If you store a password in clear, readable text, anyone who has access to your account or device, whether authorized or unauthorized, can read it.
+
+<!-- Advanced Persistent Threats (APT) -->
+* A multi-phase, long term, stealthy and advanced operation against a specific target. For these reasons, an individual attacker often lacks the skill set, resources or persistence to perform APTs.
+
+An APT is usually well-funded and typically targets organizations or nations for business or political reasons.

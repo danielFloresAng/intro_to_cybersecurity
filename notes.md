@@ -107,3 +107,12 @@ If you store a password in clear, readable text, anyone who has access to your a
 * A multi-phase, long term, stealthy and advanced operation against a specific target. For these reasons, an individual attacker often lacks the skill set, resources or persistence to perform APTs.
 
 An APT is usually well-funded and typically targets organizations or nations for business or political reasons.
+
+<!-- ______________________________________________________________________________________ -->
+<!--                    /// SECURITY VULNERABILITY AND EXPLOITS                             -->
+
+<Security vulnerabilities are any kind of software or hardware defect. A program written to take advantage of a known vulnerability is referred to as an exploit.>
+
+* Hardware Vulnerabilities
+
+    

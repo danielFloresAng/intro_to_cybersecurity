@@ -113,6 +113,15 @@ An APT is usually well-funded and typically targets organizations or nations for
 
 <Security vulnerabilities are any kind of software or hardware defect. A program written to take advantage of a known vulnerability is referred to as an exploit.>
 
-* Hardware Vulnerabilities
-
+* Hardware Vulnerabilities - > Result of a design flaw.
+* Software Vulnerabilities - > Security weakness inside a program caused by errors in the code of the operating system or applications. 
     
+    * Categorizing software vulnerabilities 
+        - Buffer overflow
+        - Non-validated input
+        - Race conditions
+        - Weaknesses in security practices
+        - Access control problems
+
+* Software updates:
+    - The main goal of the operating systems and applications updates is to avoid exploitation of vulnerabilities. 
